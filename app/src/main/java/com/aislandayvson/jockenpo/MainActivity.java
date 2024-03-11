@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
         }else{
             text_result.setText("Empate.");
         }
+        System.out.println("deu certo");
     }
 
 
